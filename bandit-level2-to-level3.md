@@ -1,4 +1,4 @@
-### Level2 &raww; level3
+### Level2 → level3
 
 ### Goal
 The password is in --space in this filename-- located at the home directory.

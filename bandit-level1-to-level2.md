@@ -30,7 +30,7 @@ cat ./-          # reads the file named '-' in current directory
 
 cat ./--file     # reads the file named '--file' in current directory
 
-Now you will see a passwd for next level
+- Now you will see a passwd for next level
 
 ***NOTE: Please store you key on text editor***
 -----------------------------------------------------------------------------

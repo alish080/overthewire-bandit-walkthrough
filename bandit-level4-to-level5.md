@@ -5,6 +5,7 @@
 The password for the next level is stored in the only human-readable file in the inhere directory
 ----------------------------------------------------------------------------------
 > Connect first: ssh bandit4.bandit@labs.overthewire.org -p 2220
+
 > Must be correct home directory `/home/bandit4`
 
 ### Command

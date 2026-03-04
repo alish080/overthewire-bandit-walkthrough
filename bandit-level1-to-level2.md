@@ -27,6 +27,7 @@ cat ./-
 
 ## Example
 cat ./-          # reads the file named '-' in current directory
+
 cat ./--file     # reads the file named '--file' in current directory
 
 Now you will a paaswd for next level

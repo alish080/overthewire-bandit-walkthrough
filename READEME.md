@@ -30,12 +30,16 @@ bandit-level1-to-level2.md
 bandit-level2-to-level3.md  
 bandit-level3-to-level4.md  
 ...
+---
+## Videos
+-level 0-5: https://youtu.be/cHC7VnfoTss
 
+---
 Each file contains:
 - Level goal
 - Commands used
 - Explanation
-- What I learned
+  
 
 ---
 

@@ -32,7 +32,7 @@ bandit-level3-to-level4.md
 ...
 ---
 ## Videos
--level 0-5: https://youtu.be/cHC7VnfoTss
+- level 0-5: https://youtu.be/cHC7VnfoTss
 
 ---
 Each file contains:

@@ -1,4 +1,4 @@
-###level5 Level6
+### level5 → Level6
 
 ### Goal
 The password for the next level is stored in a file somewhere under the inhere directory and has all of the following properties:

@@ -1,6 +1,7 @@
 ### Level3→ Level4
 
 ### Goal
+
 The password for the next level is stored in a inhere directory
 ------------------------------------------------------------------------------
 > Connect first :ssh bandit3@bandit.labs.overthewire.org -p 2220 and passwd you got at previous level

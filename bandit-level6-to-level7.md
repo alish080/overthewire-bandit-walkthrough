@@ -37,8 +37,8 @@ the group owner was bandit 6
 - 2>/dev/null
 2> is the standard error we get searching whole "root" server there is a huge chance we will get error message like "permisssion denied and other gebberish code so we send them to /dev/null basically discard them anything that goes on /dev/null the error code is discarded
 so now you will get `/var/lib/dpkg/info/bandit7.password`
-Now,
 
+Now,
 **Run**
 `cat /var/lib/dpkg/info/bandit7.password`
 you will get your key 

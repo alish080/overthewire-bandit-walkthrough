@@ -39,7 +39,7 @@ the group owner was bandit 6
 so now you will get `/var/lib/dpkg/info/bandit7.password`
 
 Now,
-**Run**
+- **Run**
 `cat /var/lib/dpkg/info/bandit7.password`
 you will get your key 
 ---

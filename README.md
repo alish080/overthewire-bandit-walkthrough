@@ -33,6 +33,7 @@ bandit-level3-to-level4.md
 ---
 ## Videos
 - level 0-5: https://youtu.be/cHC7VnfoTss
+- level 6-10 https://youtu.be/ym6YD-FZad8
 
 ---
 Each file contains:

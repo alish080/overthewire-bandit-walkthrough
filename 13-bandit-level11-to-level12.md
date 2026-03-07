@@ -10,6 +10,7 @@ The password for the next level is stored in the file data.txt, where all lowerc
 ROT13 ("rotate by 13 places") is a simple substitution cipher that replaces a letter with the 13th letter after it in the alphabet, wrapping back to A after Z. It is a reciprocal cipher—applying it twice restores the original text.
 - To translate into a orginal text from ROT13 cipher 
 - syntax is : `tr 'A-Za-z' 'N-ZA-Mn-za-m'`
+
 Range	Alphabet Mapping
 A – M	A B C D E F G H I J K L M
 N – Z	N O P Q R S T U V W X Y Z

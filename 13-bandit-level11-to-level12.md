@@ -12,6 +12,7 @@ ROT13 ("rotate by 13 places") is a simple substitution cipher that replaces a le
 - syntax is : `tr 'A-Za-z' 'N-ZA-Mn-za-m'`
 
 Range	Alphabet Mapping
+
 A – M	A B C D E F G H I J K L M
 
 N – Z	N O P Q R S T U V W X Y Z

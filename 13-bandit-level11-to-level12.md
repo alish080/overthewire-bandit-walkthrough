@@ -27,6 +27,7 @@ N – Z	N O P Q R S T U V W X Y Z
 
 **Run**
 > We can solve it by two method
+
 i) **Run**
 - `cat data.txt | tr 'A-Za-z' 'N-ZA-Mn-za-m'`
 Here,we directy translate the whole line which is "data.txt" where the first words are ROT13  encrypted to orginal text.

@@ -36,7 +36,7 @@ i) **Run**
 Here,we directy translate the whole line which is "data.txt" where the first words are ROT13  encrypted to orginal text.
 
 ii) **Run**
-- `eho "Gur cnffjbeq vf 7k16JArUVv5LxVuJfsSVdbbtaHGlw9D4"| tr 'A-Za-z' 'N-ZA-Mn-za-m`
+- `echo "Gur cnffjbeq vf 7k16JArUVv5LxVuJfsSVdbbtaHGlw9D4"| tr 'A-Za-z' 'N-ZA-Mn-za-m`
 Here, we simply print the whole line we get and traslate it to orginal text.
 ----
 ### NOTE

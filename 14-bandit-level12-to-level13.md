@@ -75,7 +75,7 @@ bandit12@bandit:/tmp/tmp.NYsEzZGNlS$ `gzip -d data.gz`
 > see the file tine decomprees it  until you can see the password
 
 `ls`
-- data  data.txt
+ data  data.txt
 
 bandit12@bandit:/tmp/tmp.NYsEzZGNlS$ `file data`
 data: bzip2 compressed data, block size = 900k

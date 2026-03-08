@@ -84,6 +84,7 @@ bandit12@bandit:/tmp/tmp.NYsEzZGNlS$ `mv data data.bz2`
 bandit12@bandit:/tmp/tmp.NYsEzZGNlS$ `bzip2 -d data.bz2` 
 bandit12@bandit:/tmp/tmp.NYsEzZGNlS$ `ls`
 - data  data.txt
+
 bandit12@bandit:/tmp/tmp.NYsEzZGNlS$ `file data`
 data: gzip compressed data, was "data4.bin", last modified: Tue Oct 14 09:26:00 2025, max compression, from Unix, original size modulo 2^32 20480
  
@@ -107,28 +108,35 @@ data6.bin: bzip2 compressed data, block size = 900k
 
 bandit12@bandit:/tmp/tmp.NYsEzZGNlS$ `mv data6.bin data6.bz2`
 bandit12@bandit:/tmp/tmp.NYsEzZGNlS$` bzip2 -d data6.bz2` 
+
 bandit12@bandit:/tmp/tmp.NYsEzZGNlS$ `ls`
 data  data5.bin  data6  data.txt
+
 bandit12@bandit:/tmp/tmp.NYsEzZGNlS$ `file data6`
 data6: POSIX tar archive (GNU)
+
 bandit12@bandit:/tmp/tmp.NYsEzZGNlS$ `tar -xf data6`
+
 bandit12@bandit:/tmp/tmp.NYsEzZGNlS$ `ls`
 data  data5.bin  data6  data8.bin  data.txt
+
 bandit12@bandit:/tmp/tmp.NYsEzZGNlS$ `file data8.bin` 
 data8.bin: gzip compressed data, was "data9.bin", last modified: Tue Oct 14 09:26:00 2025, max compression, from Unix, original size modulo 2^32 49
 
 bandit12@bandit:/tmp/tmp.NYsEzZGNlS$ `mv data8.bin data8.gz`
 bandit12@bandit:/tmp/tmp.NYsEzZGNlS$ `gzip -d data8.gz` 
+
 bandit12@bandit:/tmp/tmp.NYsEzZGNlS$ `ls`
 data  data5.bin  data6  data8  data.txt
+
 bandit12@bandit:/tmp/tmp.NYsEzZGNlS$ `file data8`
 data8: ASCII text
+
 bandit12@bandit:/tmp/tmp.NYsEzZGNlS$ `cat data8`
 The password is FO5dwFsc0cbaIiH0h8J2eUks2vdTDwAn
 
 > We need to remove the "tmp" directory,it is a good practice (it is not a complassary)
 > exit the tmp directory first
-
 `ls -d /tmp/tmp.NYsEzZGNlS`
 `/tmp/tmp.NYsEzZGNlS`
 bandit12@bandit:~$ `cd /tmp/`

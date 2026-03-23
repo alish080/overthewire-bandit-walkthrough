@@ -14,7 +14,9 @@ We will have to send a current passwd to a server 30001 encrypted with SSL/TLS
 
 - `s_client` - is to tell the server we are a client and requsting a service
 - `-connect localhost:30001`- is a destinated server to send
-you will receive a correct passwd now
-kSkvUpMQ7lBYyCM4GBPvCvT1BfWRy0Dx  
+
+you will receive a correct passwd now, 
+
+- kSkvUpMQ7lBYyCM4GBPvCvT1BfWRy0Dx  
 --- 
 ***Alish**

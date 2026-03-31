@@ -21,7 +21,6 @@ Now, if we look at a goal;  it is said that the password is in password.new and 
 `diff passwords.new passwords.old`
 
 - Output
-
 42c42
 < x2gLTTjFwMOhQ8oWNbMN362QKxfRqGlO
 ---

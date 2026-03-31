@@ -15,7 +15,8 @@ now if you do,
 
 You will see a bunch of key which are identical to keys in passwords.new and passwords.old
 
-     Now, if we look at a goal;  it is said that the password is in password.new and is the only line that has been changed between paswords.new and passwords.old so we use now new command that is `diff`
+Now, if we look at a goal;  it is said that the password is in password.new and is the only line that has been changed between paswords.new and passwords.old so we use now new command that is `diff`
+
 ---
 **Run**
 `diff passwords.new passwords.old`

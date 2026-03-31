@@ -36,7 +36,7 @@ Here,
 - '>' : indicates  lines from second file
 - '<' : indicates lines from first line 
 ---
-So our passwd is 'x2gLTTjFwMOhQ8oWNbMN362QKxfRqGlO'
+- So our passwd is 'x2gLTTjFwMOhQ8oWNbMN362QKxfRqGlO'
 ---
 ***Alish*** 
 

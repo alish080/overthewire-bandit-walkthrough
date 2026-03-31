@@ -20,7 +20,7 @@ Now, if we look at a goal;  it is said that the password is in password.new and 
 ---
 **Run**
 
-            `diff passwords.new passwords.old`
+`diff passwords.new passwords.old`
 
 - Output
 42c42

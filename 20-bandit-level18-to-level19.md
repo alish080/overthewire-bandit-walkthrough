@@ -1,4 +1,3 @@
-  GNU nano 7.2              20-bandit-level18-to-level19 *                      
 ### Level18 > Level19
 
 ### Goal 

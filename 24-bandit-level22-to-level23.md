@@ -11,6 +11,7 @@ The process is same as level 21 as the script is in cron `etc/cron.d`
 This time we are searching the password of level 23 as being a user bandit22
 
 As, you run
+
 ***Run***
 
 `cat cronjob_bandit23`

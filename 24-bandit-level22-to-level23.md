@@ -33,7 +33,7 @@ cat /etc/bandit_pass/$myname > /tmp/$mytarget
 - The third line  refres to sending the password of bandit23 to `/tmp/mytarget`
 - so the password is stored in a "/tmp/mytarget"
 
-> You will have to find the value of "mytarget", you can't directly  run mytarget as the object 
+> You will have to find the value of "mytarget", you can't directly  run mytarget as it's  object 
 
 **Run**
 

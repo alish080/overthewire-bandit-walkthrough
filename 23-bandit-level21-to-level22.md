@@ -25,12 +25,14 @@ you will see,
 If you read the script file
 
 You will see a script
-----------------------------------
+
+-
 cat /usr/bin/cronjob_bandit22.sh
 #!/bin/bash
 chmod 644 /tmp/t7O6lds9S0RqQh9aMcz6ShpAoZKF7fgv
 cat /etc/bandit_pass/bandit22 > /tmp/t7O6lds9S0RqQh9aMcz6ShpAoZKF7fgv
------------------------------------
+-
+
 Here the password is stored in a temp folder 
 
 ***Run***

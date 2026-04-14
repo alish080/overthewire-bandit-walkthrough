@@ -10,6 +10,7 @@ so basically what we know us there is a shell script that is being running in a 
 **Run**
 
 `cd /etc/cron.d`
+
 `ls`
 
 Now you will see a bunch of files as we are searching password for level 22 we whould foucs on a file  "cronjob_bandit22"

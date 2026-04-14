@@ -39,6 +39,7 @@ cat /etc/bandit_pass/$myname > /tmp/$mytarget
 **Run**
 
 `echo I am user bandit23 | md5sum | cut -d ' ' -f 1`
+
 you will get, 
 
 8ca319486bfbbc3663ea0fbe81326349

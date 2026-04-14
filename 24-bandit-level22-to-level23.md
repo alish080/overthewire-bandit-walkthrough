@@ -25,8 +25,8 @@ myname=$(whoami)
 mytarget=$(echo I am user $myname | md5sum | cut -d ' ' -f 1)
 
 echo "Copying passwordfile /etc/bandit_pass/$myname to /tmp/$mytarget"
-
 cat /etc/bandit_pass/$myname > /tmp/$mytarget
+
 --
 - The output of the whoami is the bandit23 as bandit23 is running the shell script and being stored in a `my target` 
 - The seconf line of code is the destination basically prnting the output of bandit23 being sumed by md5 and the field of output is being stored in a `mytarget`

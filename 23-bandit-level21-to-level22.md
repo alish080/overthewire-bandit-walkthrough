@@ -8,12 +8,14 @@ Cron is the time based schedular
 
 so basically what we know us there is a shell script that is being running in a `/etc/cron.d` 
 **Run**
+
 `cd /etc/cron.d`
 `ls`
 
 Now you will see a bunch of files as we are searching password for level 22 we whould foucs on a file  "cronjob_bandit22"
 
 **Run**
+
 `cat cronjob_bandit22`
 you will see,
 
@@ -35,6 +37,7 @@ cat /etc/bandit_pass/bandit22 > /tmp/t7O6lds9S0RqQh9aMcz6ShpAoZKF7fgv
 Here the password is stored in a temp folder 
 
 ***Run***
+
 `cat /tmp/t7O6lds9S0RqQh9aMcz6ShpAoZKF7fgv`
 
 you will receive the passswd

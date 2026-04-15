@@ -9,7 +9,7 @@ You do not need to create new connections each time
 
 Here, the port 30002 is listing to where we have to give password which we loged in to this level along with 4 digit numeric code 
 
-Fun thin is we don't have that 4 digit numeric number , we have to find the 4 digit numeric code by using brute force we will write a script where we will try all 4 digit possible from (0000 to 9999) and along with a password we will send that to port 30002
+Fun thing is we don't have that 4 digit numeric number , we have to find the 4 digit numeric code by using brute force we will write a script where we will try all 4 digit possible from (0000 to 9999) and along with a password we will send that to port 30002
 
 ***Run***
 

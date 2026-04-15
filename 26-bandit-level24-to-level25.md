@@ -15,7 +15,7 @@ Fun thing is we don't have that 4 digit numeric number , we have to find the 4 d
 
 `for i in {0000..9999}; do echo "gb8KRRCsshuZXI0tUuR6ypOFjiZbf3G8 $i" done | nc localhost 30002 `
 
-so this is our script to what it does is,
+so this is our script so what it does is,
 
 - `for (loop)` : is where we will try all the possible 4 digit numbers
 - `do done`: for people whom bash might be new, if you have learned any programming language the concept is same as "do while" .

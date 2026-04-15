@@ -40,15 +40,25 @@ cd /var/spool/"$myname"/foo || exit
 echo "Executing and deleting all scripts in /var/spool/$myname/foo:"
 for i in * .*;
 do
+  
    if [ "$i" != "." ] && [ "$i" != ".." ];
+   
    then
+   
    echo "Handling $i"
+   
    owner="$(stat --format "%U" "./$i")"
+   
    if [ "${owner}" = "bandit23" ] && [ -f "$i" ]; then
+   
    timeout -s 9 60 "./$i"
+   
    fi
+   
    rm -rf "./$i"
+   
    fi
+
 ----
 
 So, this is basically the bandit24 script, we know that only bandit24 has the permisssion to acces its password so we will write our own script that we will trick the bandit24 and find its password

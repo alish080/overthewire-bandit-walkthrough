@@ -31,17 +31,17 @@ you will see a file README.md
 you will something like 
 
 ---
-# Bandit Notes
+#Bandit Notes
 Some notes for level29 of bandit.
 
-## credentials
+##credentials
 
 - username: bandit29
 - password: xxxxxxxxxx
 
 ---
 
-so the password is not in a file you wil have to look as the commit history 
+so the password is not in a file you will have to look as the commit history 
 
 `git log --online -all`
 

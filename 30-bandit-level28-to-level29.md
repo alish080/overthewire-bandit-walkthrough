@@ -46,6 +46,7 @@ so the password is not in a file you will have to look as the commit history
 `git log --online -all`
 
 you will see,
+
 ----
 
 00daa61 (HEAD -> master, origin/master, origin/HEAD) fix info leak

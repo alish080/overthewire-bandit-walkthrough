@@ -29,7 +29,9 @@ you will see a file README.md
 `cat README.md`
 
 you will something like 
+
 ---
+
 # Bandit Notes
 Some notes for level29 of bandit.
 
@@ -37,6 +39,7 @@ Some notes for level29 of bandit.
 
 - username: bandit29
 - password: xxxxxxxxxx
+
 ---
 
 so the password is not in a file you wil have to look as the commit history 
@@ -45,9 +48,11 @@ so the password is not in a file you wil have to look as the commit history
 
 you will see,
 ----
+
 00daa61 (HEAD -> master, origin/master, origin/HEAD) fix info leak
 a1487fd add missing data
 eaef76e initial commit of README.md
+
 ---
 
 so see a particular commit the alphanumerical valuse you see is a commit id

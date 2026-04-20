@@ -31,7 +31,6 @@ you will see a file README.md
 you will something like 
 
 ---
-
 # Bandit Notes
 Some notes for level29 of bandit.
 

@@ -38,6 +38,7 @@ bandit-level3-to-level4.md
 - level 16-20 https://youtu.be/fMbZztwoifs
 - level 21-25 https://youtu.be/ttORPgYI8qU
 - level 26-29 https://youtu.be/o7NGkUEC5uc
+- level 30-33 https://youtu.be/9Qz7brEz8xQ
 
 ---
 Each file contains:

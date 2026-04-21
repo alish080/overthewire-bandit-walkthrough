@@ -32,10 +32,13 @@ so the file is empty but so we know we looked at the git log right we will see l
 
 `git log --oneline --all`
 
-there is not much too so our next thing will be looking at the branch 
+there is not much too see so our next thing will be looking at the branch 
+
 ---
+
   remotes/origin/HEAD -> origin/master
   remotes/origin/master
+
 ---
 
 so no hidden branch as we can see so now another thing is dev might delete the commit but forget the 'tag'
